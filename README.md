@@ -16,6 +16,7 @@ Remark I: In consideration of the significant impact of forecasting model on dec
 Remark II: It is noted that the quantitative results might vary on different testing data sets, model selections and scenario parameters such as generation cost and renewable penetrations. The function of this open-source framework is to serve as an experiment platform and baseline case. Future works are encouraged to adjust the models and parameters in this comparison to test different methods. 
 
 References:
+
 [1] T. Hong, P. Wang and H. L. Willis, “A Naïve multiple linear regression benchmark for short term load forecasting,” 2011 IEEE Power and Energy Society General Meeting, Detroit, MI, USA, 2011, pp. 1-6.
 
 [2] Stoft, S. (2002). Power system economics: Designing markets for electricity. New York: John Wiley & Sons, IEEE Press.
