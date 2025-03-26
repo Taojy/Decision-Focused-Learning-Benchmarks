@@ -16,7 +16,7 @@ Two pre-experimental remarks are made for this comparison analysis:
 **Remark II:** It is noted that the quantitative results might vary on different testing data sets, model selections and scenario parameters such as generation cost and renewable penetrations. The function of this open-source framework is to serve as an experiment platform and baseline case. Future works are encouraged to adjust the models and parameters in this comparison to test different methods.
 
 ![Alt Text](Direct%20and%20indirect%20approaches%20to%20achieve%20decision-focused%20learning.png)
-Fig.  Direct and indirect approaches to achieve decision-focused learning. Decision-focused learning is a learning paradigm that trains ML models in a forecast-then-optimize framework with decision optimality as the ultimate goal. The indirect approach follows the process of forecasting first and then optimizing, explicitly generating forecasts, while the direct approach simplifies this process and does not explicitly generate forecasts.
+Fig. 1 Direct and indirect approaches to achieve decision-focused learning. Decision-focused learning is a learning paradigm that trains ML models in a forecast-then-optimize framework with decision optimality as the ultimate goal. The indirect approach follows the process of forecasting first and then optimizing, explicitly generating forecasts, while the direct approach simplifies this process and does not explicitly generate forecasts.
 
 References:
 
