@@ -15,6 +15,8 @@ Two pre-experimental remarks are made for this comparison analysis:
 
 **Remark II: It is noted that the quantitative results might vary on different testing data sets, model selections and scenario parameters such as generation cost and renewable penetrations. The function of this open-source framework is to serve as an experiment platform and baseline case. Future works are encouraged to adjust the models and parameters in this comparison to test different methods.**
 
+![Alt Text](Direct and indirect approaches to achieve decision-focused learning.png)
+
 References:
 
 [1] T. Hong, P. Wang and H. L. Willis, “A Naïve multiple linear regression benchmark for short term load forecasting,” 2011 IEEE Power and Energy Society General Meeting, Detroit, MI, USA, 2011, pp. 1-6.
