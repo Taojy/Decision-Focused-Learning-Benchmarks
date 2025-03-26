@@ -15,7 +15,7 @@ Two pre-experimental remarks are made for this comparison analysis:
 
 **Remark II: It is noted that the quantitative results might vary on different testing data sets, model selections and scenario parameters such as generation cost and renewable penetrations. The function of this open-source framework is to serve as an experiment platform and baseline case. Future works are encouraged to adjust the models and parameters in this comparison to test different methods.**
 
-![Alt Text](Direct and indirect approaches to achieve decision-focused learning.png)
+![Alt Text]([Direct and indirect approaches to achieve decision-focused learning.png](https://github.com/Taojy/Decision-Focused-Learning-Benchmarks/blob/main/Direct%20and%20indirect%20approaches%20to%20achieve%20decision-focused%20learning.png))
 
 References:
 
