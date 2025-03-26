@@ -11,9 +11,9 @@ Here, we compare the performance of six typical approaches from widely recognize
 
 Two pre-experimental remarks are made for this comparison analysis: 
 
-**Remark I: In consideration of the significant impact of forecasting model on decision performance, two sub-models are further evaluated for SBL method, probabilistic method, and indirect DOL methods as shown in Table III, namely a naïve regression model and a time-specific ridge regression model. The naïve model is a unified forecasting model trained for all time intervals as in [1] and the time-specific approach trains 24 distinct regression models (one per hour), effectively creating 24 surrogate functions as in [4]. L2 regularization is added to prevent overfitting [8].**
+**Remark I:** In consideration of the significant impact of forecasting model on decision performance, two sub-models are further evaluated for SBL method, probabilistic method, and indirect DOL methods as shown in Table III, namely a naïve regression model and a time-specific ridge regression model. The naïve model is a unified forecasting model trained for all time intervals as in [1] and the time-specific approach trains 24 distinct regression models (one per hour), effectively creating 24 surrogate functions as in [4]. L2 regularization is added to prevent overfitting [8].
 
-**Remark II: It is noted that the quantitative results might vary on different testing data sets, model selections and scenario parameters such as generation cost and renewable penetrations. The function of this open-source framework is to serve as an experiment platform and baseline case. Future works are encouraged to adjust the models and parameters in this comparison to test different methods.**
+**Remark II:** It is noted that the quantitative results might vary on different testing data sets, model selections and scenario parameters such as generation cost and renewable penetrations. The function of this open-source framework is to serve as an experiment platform and baseline case. Future works are encouraged to adjust the models and parameters in this comparison to test different methods.
 
 ![Alt Text](Direct%20and%20indirect%20approaches%20to%20achieve%20decision-focused%20learning.png)
 
