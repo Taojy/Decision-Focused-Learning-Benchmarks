@@ -1,5 +1,5 @@
 # Decision-Focused-Learning-Benchmarks
-This repository contains the code for the paper Decision-Focused Learning for Power System Decision-Making under Uncertainty. We developed the benchmark model based on load forecasting for two-stage electricity generation scheduling in the IEEE 118-Bus system, a widely recognized test case.
+This repository contains the code for the paper Decision-Focused Learning for Power System Decision-Making under Uncertainty. We developed the benchmark model based on load forecasting for two-stage electricity generation scheduling in the IEEE 118-Bus system, a widely recognized test case. This work corresponds to the paper [Decision-Focused Learning for Power System Decision-Making under Uncertainty](https://arxiv.org/abs/2401.03680), where we elaborate on our methodology, implementation details, and experimental results.
 
 Here, we compare the performance of six typical approaches from widely recognized papers: 
 
