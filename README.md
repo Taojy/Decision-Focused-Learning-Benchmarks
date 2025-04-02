@@ -18,6 +18,9 @@ Two pre-experimental remarks are made for this comparison analysis:
 ![Alt Text](Direct%20and%20indirect%20approaches%20to%20achieve%20decision-focused%20learning.png)
 Fig. 1 Direct and indirect approaches to achieve decision-focused learning. Decision-focused learning is a learning paradigm that trains ML models in a forecast-then-optimize framework with decision optimality as the ultimate goal. The indirect approach follows the process of forecasting first and then optimizing, explicitly generating forecasts, while the direct approach simplifies this process and does not explicitly generate forecasts.
 
+Numerical results are concluded in Table I below.
+![Alt Text](Numerical_results_in_benchmark_experiment.png)
+
 References:
 
 [1] T. Hong, P. Wang and H. L. Willis, “A Naïve multiple linear regression benchmark for short term load forecasting,” 2011 IEEE Power and Energy Society General Meeting, Detroit, MI, USA, 2011, pp. 1-6.
@@ -28,7 +31,7 @@ References:
 
 [4] Zhang, Jialun, Yi Wang, and Gabriela Hug. "Cost-oriented load forecasting." Electric Power Systems Research 205 (2022): 107723.
 
-[5] J. M. Morales, M. Á. Muñoz, and S. Pineda, “Prescribing net demand for two-stage electricity generation scheduling,” Available at SSRN 4211573.
+[5] J. M. Morales, M. Á. Muñoz, and S. Pineda, “Prescribing net demand for two-stage electricity generation scheduling,” Operations Research Perspectives, 2023, vol. 10, p. 100268.
 
 [6] A. Stratigakos, S. Camal, A. Michiorri, and G. Kariniotakis, “Prescriptive trees for integrated forecasting and optimization applied in trading of renewable energy,” IEEE Trans. Power Syst., vol. 37, no. 6, pp. 46964708, 2022.
 
