@@ -19,6 +19,7 @@ Two pre-experimental remarks are made for this comparison analysis:
 Fig. 1 Direct and indirect approaches to achieve decision-focused learning. Decision-focused learning is a learning paradigm that trains ML models in a forecast-then-optimize framework with decision optimality as the ultimate goal. The indirect approach follows the process of forecasting first and then optimizing, explicitly generating forecasts, while the direct approach simplifies this process and does not explicitly generate forecasts.
 
 Numerical results are concluded in Table I below.
+Table I Numerical results in benchmark experiment
 ![Alt Text](Numerical_results_in_benchmark_experiment.png)
 
 References:
