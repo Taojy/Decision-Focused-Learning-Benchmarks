@@ -20,7 +20,7 @@ Fig. 1 Direct and indirect approaches to achieve decision-focused learning. Deci
 
 Numerical results are concluded in Table I below.
 
-Table I EVALUATE THE POTENTIAL OF THE FOUR METHODS IN SIX FEATURES
+Table I Evaluate the potential of the four methods in six features
 ![Alt Text](Numerical_results_in_benchmark_experiment.png)
 
 References:
