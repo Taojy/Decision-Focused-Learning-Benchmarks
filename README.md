@@ -7,7 +7,7 @@ Here, we compare the performance of six typical approaches from widely recognize
 
 **b. Probabilistic Approach: Probabilistic forecast + uncertain optimization [3].**
 
-**c. DFL Approach**: As suggested by other reviewers, the DFL methods are further categorized into four types based on direct/indirect, gradient based/gradient free. We select one baseline paper for each method and replicated on our benchmark test case: **Indirect Gradient-Based Methods [4]**, **Indirect Gradient-Free Methods [5]**, **Direct Gradient-Based Methods [6]**, and **Direct Gradient-Free Methods [7]**. At present, implementations for the first four approaches are publicly available, while the remaining two will be released in the near future.
+**c. DFL Approach**: As suggested by other reviewers, the DFL methods are further categorized into four types based on direct/indirect, gradient based/gradient free. We select one baseline paper for each method and replicated on our benchmark test case: **Indirect Gradient-Based Methods [4]**, **Indirect Gradient-Free Methods [5]**, **Direct Gradient-Based Methods [6]**, and **Direct Gradient-Free Methods [7]**. At present, implementations for the first four approaches are publicly available, while the remaining two will be released in the near future. As demonstrated in Table I, the six baseline approaches are evaluated across four quantitative metrics and three qualitative metrics. So far, the implementation and quantitative evaluation of the direct gradient-based model approach on our dataset are ongoing, and the results will be included in future updates to the repository. We welcome contributions from the research community to collaboratively enrich the benchmark and promote shared progress.
 
 Two pre-experimental remarks are made for this comparison analysis: 
 
@@ -16,11 +16,11 @@ Two pre-experimental remarks are made for this comparison analysis:
 **Remark II:** It is noted that the quantitative results might vary on different testing data sets, model selections and scenario parameters such as generation cost and renewable penetrations. The function of this open-source framework is to serve as an experiment platform and baseline case. Future works are encouraged to adjust the models and parameters in this comparison to test different methods.
 
 ![Alt Text](Direct%20and%20indirect%20approaches%20to%20achieve%20decision-focused%20learning.png)
-Fig. 1 Direct and indirect approaches to achieve decision-focused learning. Decision-focused learning is a learning paradigm that trains ML models in a forecast-then-optimize framework with decision optimality as the ultimate goal. The indirect approach follows the process of forecasting first and then optimizing, explicitly generating forecasts, while the direct approach simplifies this process and does not explicitly generate forecasts.
+**Fig. 1 Direct and indirect approaches to achieve decision-focused learning.** Decision-focused learning is a learning paradigm that trains ML models in a forecast-then-optimize framework with decision optimality as the ultimate goal. The indirect approach follows the process of forecasting first and then optimizing, explicitly generating forecasts, while the direct approach simplifies this process and does not explicitly generate forecasts.
 
 Numerical results are concluded in Table I below.
 
-Table I Evaluate the potential of the four methods in six features
+**Table I Evaluate the potential of the four methods in six features**
 ![Alt Text](Numerical_results_in_benchmark_experiment.png)
 
 References:
