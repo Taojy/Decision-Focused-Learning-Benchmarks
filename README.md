@@ -7,7 +7,7 @@ Here, we compare the performance of six typical approaches from widely recognize
 
 **b. Probabilistic Approach: Probabilistic forecast + uncertain optimization [3].**
 
-**c. DFL Approach**: As suggested by other reviewers, the DFL methods are further categorized into four types based on direct/indirect, gradient based/gradient free. We select one baseline paper for each method and replicated on our benchmark test case: Indirect Gradient-Based Methods [4], Indirect Gradient-Free Methods [5], Direct Gradient-Based Methods [6], and Direct Gradient-Free Methods [7]. At present, implementations for the first four approaches are publicly available, while the remaining two will be released in the near future.
+**c. DFL Approach**: As suggested by other reviewers, the DFL methods are further categorized into four types based on direct/indirect, gradient based/gradient free. We select one baseline paper for each method and replicated on our benchmark test case: **Indirect Gradient-Based Methods [4]**, **Indirect Gradient-Free Methods [5]**, **Direct Gradient-Based Methods [6]**, and **Direct Gradient-Free Methods [7]**. At present, implementations for the first four approaches are publicly available, while the remaining two will be released in the near future.
 
 Two pre-experimental remarks are made for this comparison analysis: 
 
