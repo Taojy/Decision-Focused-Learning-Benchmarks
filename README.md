@@ -24,7 +24,7 @@ Numerical results are concluded in Table I below.
 
 **Online decision time:** The time taken from receiving real-time data to outputting the decision.
 
-**Decision performance:** The sum of the objective function costs derived from decisions made in the day-ahead and real-time market based on the prediction results. **The reported value is the average decision performance computed across all time periods.**
+**Decision optimality:** The sum of the objective function costs derived from decisions made in the day-ahead and real-time market based on the prediction results. **The reported value is the average decision result computed across all time periods.**
 
 **Prediction accuracy:** The statistical evaluation of the prediction results.
 
