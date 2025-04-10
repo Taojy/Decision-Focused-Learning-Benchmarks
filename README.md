@@ -21,8 +21,11 @@ Two pre-experimental remarks are made for this comparison analysis:
 Numerical results are concluded in Table I below.
 
 **Offline training time:** The time taken from data loading to the completion of forecasting model training.
+
 **Online decision time:** The time taken from receiving real-time data to outputting the decision.
+
 **Decision performance:** The sum of the objective function costs derived from decisions made in the day-ahead and real-time market based on the prediction results. **The reported value is the average decision performance computed across all time periods.**
+
 **Prediction accuracy:** The statistical evaluation of the prediction results.
 
 **Table I Evaluate the potential of the four methods in six features**
